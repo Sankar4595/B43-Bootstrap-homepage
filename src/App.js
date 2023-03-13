@@ -113,7 +113,7 @@ function App() {
       </Navbar>
       </div>
       <div className='sidebar'>
-        <h1>Shop in style</h1>
+        <h1 className='style-head'>Shop in style</h1>
         <p className='style-para'>With this shop homepage template</p>
       </div>
       <div className='products'>
